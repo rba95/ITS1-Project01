@@ -1,4 +1,4 @@
-# Flop!EDT
+# Projet PIP ITS 1 - 01
 
 Refonte et amélioration du site Flop!EDT  
 Ce projet vise à repenser et optimiser les fonctionnalités ainsi que le design de notre plateforme pour une gestion plus fluide et efficace des emplois du temps.
@@ -25,3 +25,13 @@ Le but de ce projet est de :
 1. Clonez ce dépôt en utilisant la commande suivante :
    ```bash
    git clone https://github.com/ton-username/ton-projet.git
+
+
+## Licence 
+
+Ce projet est sous licence Apache 2.0. Pour plus d'informations, veuillez consulter le fichier de licence.
+
+## Crédits
+
+Chef de projet : BARKALLAH Rayane
+Technique de développement : Aminata, Asmaa, Eda, Hajer
