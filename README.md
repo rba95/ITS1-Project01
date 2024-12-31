@@ -30,7 +30,6 @@ Le but de ce projet est de :
 ## Licence 
 
 Ce projet est sous licence Apache 2.0. Pour plus d'informations, veuillez consulter le fichier de licence.
----
 
 ##  Crédits
 
