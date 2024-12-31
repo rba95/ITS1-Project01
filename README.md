@@ -24,14 +24,15 @@ Le but de ce projet est de :
 ## Installation
 1. Clonez ce dépôt en utilisant la commande suivante :
    ```bash
-   git clone https://github.com/ton-username/ton-projet.git
-
+   git clone https://github.com/rba95/ITS
+---
 
 ## Licence 
 
 Ce projet est sous licence Apache 2.0. Pour plus d'informations, veuillez consulter le fichier de licence.
+---
 
 ##  Crédits
 
-Chef de projet : BARKALLAH Rayane
-Technique de développement : Aminata, Asmaa, Eda, Hajer
+- Chef de projet : BARKALLAH Rayane
+- Technique de développement : Aminata, Asmaa, Eda, Hajer
