@@ -34,4 +34,4 @@ Ce projet est sous licence Apache 2.0. Pour plus d'informations, veuillez consul
 ##  Crédits
 
 - Chef de projet : BARKALLAH Rayane
-- Technique de développement : Aminata, Asmaa, Eda, Hajer
+- Technique de développement : Aminata, MIMOUNI Asmaa, AKDEN Eda, HAMDI Hajer
