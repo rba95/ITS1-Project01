@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1 {
+    color: #2a9d8f;
+}
+/* Appliquer une couleur de fond à la page */
+body {
+    background-color: #A3A380;
+    font-family: Arial, sans-serif;
+}
+
+/* Couleur du texte principal */
+h1 {
+    color: #D8A48F;
+}
+
+/* Style des liens */
+a {
+    color: #BB8588;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #D6CE93;
+}
+button {
+    background-color: #A98467;
+    color: #ADC178;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #DDE5B6;
+}
+body {
+    margin: 20px;  /* Ajoute une marge autour de toute la page */
+    font-family: Arial, sans-serif;  /* Police du texte */
+}
+
+h1 {
+    margin-bottom: 30px;  /* Ajoute une marge en dessous du titre */
+}
+
+p {
+    margin-top: 20px;  /* Ajoute une marge au-dessus du paragraphe */
+    margin-bottom: 20px;  /* Ajoute une marge en dessous du paragraphe */
+}
+<h2>Section 1</h2>
+<p>Voici le premier paragraphe.</p>
+
+<hr> <!-- Ligne de séparation -->
+
+<h2>Section 2</h2>
+<p>Voici le deuxième paragraphe.</p>
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
