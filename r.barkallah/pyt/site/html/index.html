@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Accueil - Gestionnaire d'absence</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <header>
+    <img src="{{ url_for('static', filename='img/logo.png') }}" alt="Logo" class="logo">
+    <h1>Bienvenue sur le Gestionnaire d'absence</h1>
+  </header>
+
+  <main>
+    <section id="home-section">
+      <h2>Page d'accueil</h2>
+      <p>Bienvenue sur le site de gestion des absences. Vous êtes connecté en tant que {{ session['username'] }}.</p>
+
+      <!-- Bouton de déconnexion -->
+      <form action="{{ url_for('logout') }}" method="get">
+        <button type="submit">Se déconnecter</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 UPEC. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
